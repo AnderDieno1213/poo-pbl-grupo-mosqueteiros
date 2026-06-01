@@ -1,7 +1,7 @@
 {
   "curso": "Nome do Curso",
   "disciplina": "Orientação a Objetos",
-  "tema_escolhido": "NÚMERO_DO_TEMA_AQUI",
+  "tema_escolhido": "3",
   "linguagem": "Java",
   "gerenciador_dependencias": "Maven",
   "integrantes": [
